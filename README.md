@@ -81,6 +81,9 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <br>
 
 #### I am listening to :headphones:
+<a href="https://open.spotify.com/user/taotennghi" target="_blank"> 
+  <img src="https://spotify-now-playing-wheat-three.vercel.app/api/spotify" alt="Spotify Playing" width="350" />
+</a>
 
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
