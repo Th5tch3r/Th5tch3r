@@ -1,5 +1,17 @@
-### Hi there 👋
-My name is Thatcher
+<div align="center">
+  <a href="URL_REDIRECT" target="blank">
+    <img height="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxbDdqZ2YzOGRtZWptaTZzN2E3d2t5N3ozeGxtb2R3dXZ3eWMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJ2VRKOMPcvlSjSvTX/giphy.gif"/>
+  </a>
+</div>
+<h3 align="center">
+   Hello 👋, my name is Thatcher :full_moon_with_face:
+</h3>
+<hr>
+
+I am a self-taught front-end developer. Before going to college to earn my Bachelor degree I have been self-taught the fundamentals of HTML, CSS and JavaScript. I spent most of my free time browsing on YouTube finding cool projects to work on to further enhance my personal GitHub and portfolio. Freecodecamp, codecademy and The Odin Project are my go to sites to get self-certified. I switch back and forth toward learning a new programming language, library and working on projects.
+
+
+### Let's connect
 
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
