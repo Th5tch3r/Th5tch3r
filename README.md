@@ -21,6 +21,51 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 
 
 ### Languages and Tools I use :magic_wand:
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="c-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="css3-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="html5-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="javascript-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="python-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="sqlite-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="mysql-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="react-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="nextdotjs-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="nodedotjs-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="git-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="github-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="googledrive-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="microsoft-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="wordpress-color.svg"/>
+</a>
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
