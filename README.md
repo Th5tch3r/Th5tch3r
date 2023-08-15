@@ -11,7 +11,10 @@
 I am a self-taught front-end developer. Before going to college to earn my Bachelor degree I have been self-taught the fundamentals of HTML, CSS and JavaScript. I spent most of my free time browsing on YouTube finding cool projects to work on to further enhance my personal GitHub and portfolio. Freecodecamp, codecademy and The Odin Project are my go to sites to get self-certified. I switch back and forth toward learning a new programming language, library and working on projects.
 
 
-### Let's connect
+### Let's connect :selfie:
+<a href="https://www.linkedin.com/in/th5tch3r/" target="blank">
+    <img height="40px" src="linkedin-color.svg"/>
+  </a>
 
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
