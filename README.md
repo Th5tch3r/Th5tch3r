@@ -70,10 +70,17 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <br>
 <br>
 
-#### During my spare time, I also play games, these are some games I am currently playing
+#### During my spare time, I also play games, these are some games I am currently playing :video_game:
 <a href="URL_REDIRECT" target="_blank">
     <img width="200px" src="naraka.png"/>
 </a>
+<a href="URL_REDIRECT" target="_blank">
+    <img width="350px" src="cod-mobile.png"/>
+</a>
+<br>
+<br>
+
+#### I am listening to :headphones:
 
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
