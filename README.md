@@ -14,8 +14,13 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 ### Let's connect :selfie:
 <a href="https://www.linkedin.com/in/th5tch3r/" target="_blank">
     <img height="40px" src="linkedin-color.svg"/>
-  </a>
+</a>
+<a href="https://www.instagram.com/thatchercodes/" target="_blank">
+    <img height="40px" src="instagram-color.svg"/>
+</a>
 
+
+### Languages and Tools I use :magic_wand:
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
