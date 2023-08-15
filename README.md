@@ -66,6 +66,15 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <a href="URL_REDIRECT" target="_blank">
     <img height="40px" src="wordpress-color.svg"/>
 </a>
+<br>
+<br>
+<br>
+
+#### During my spare time, I also play games, these are some games I am currently playing
+<a href="URL_REDIRECT" target="_blank">
+    <img width="200px" src="naraka.png"/>
+</a>
+
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
