@@ -12,7 +12,7 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 
 
 ### Let's connect :selfie:
-<a href="https://www.linkedin.com/in/th5tch3r/" target="blank">
+<a href="https://www.linkedin.com/in/th5tch3r/" target="_blank">
     <img height="40px" src="linkedin-color.svg"/>
   </a>
 
