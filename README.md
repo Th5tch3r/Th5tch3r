@@ -91,7 +91,15 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <br>
 
 ### Github Stats	:hammer_and_wrench:
-<img src="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" alt="Github Stats" width="500px" align="center" />
+<a href="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" target="_blank">
+  <img src="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" alt="Github Stats" width="500px" align="center" />
+</a>
+<br>
+
+### Github Streak :zap:
+<a href="https://github-readme-streak-stats.herokuapp.com?user=Th5tch3r&theme=merko&hide_border=true" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Th5tch3r&theme=merko&hide_border=true" alt="Github Streak" width="500px"/>
+</a>
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
