@@ -1,6 +1,6 @@
 <div align="center">
   <a href="URL_REDIRECT" target="blank">
-    <img height="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxbDdqZ2YzOGRtZWptaTZzN2E3d2t5N3ozeGxtb2R3dXZ3eWMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJ2VRKOMPcvlSjSvTX/giphy.gif"/>
+    <img height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxbDdqZ2YzOGRtZWptaTZzN2E3d2t5N3ozeGxtb2R3dXZ3eWMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJ2VRKOMPcvlSjSvTX/giphy.gif"/>
   </a>
 </div>
 <h3 align="center">
@@ -92,13 +92,13 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 
 ### Github Stats	:hammer_and_wrench:
 <a href="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" target="_blank">
-  <img src="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" alt="Github Stats" width="500px" align="center" />
+  <img src="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" alt="Github Stats" width="600px" align="center" />
 </a>
 <br>
 
 ### Github Streak :zap:
 <a href="https://github-readme-streak-stats.herokuapp.com?user=Th5tch3r&theme=merko&hide_border=true" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Th5tch3r&theme=merko&hide_border=true" alt="Github Streak" width="500px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Th5tch3r&theme=merko&hide_border=true" alt="Github Streak" width="600px"/>
 </a>
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
