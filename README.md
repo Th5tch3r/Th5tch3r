@@ -90,7 +90,12 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <a href="https://open.spotify.com/user/taotennghi" target="_blank"> 
   <img src="https://spotify-now-playing-wheat-three.vercel.app/api/spotify" alt="Spotify Playing" width="100%" />
 </a>
+<br>
+<br>
+<br>
 
+### Github Stats	:hammer_and_wrench:
+<img src="https://github-readme-stats-git-master-th5tch3r.vercel.app/api?username=Th5tch3r&show_icons=true&hide_border=true&theme=merko" alt="Github Stats" width="500px" align="center" />
 <!--
 **Th5tch3r/Th5tch3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
