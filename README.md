@@ -74,7 +74,6 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 </a>
 <br>
 <br>
-<br>
 
 #### During my spare time, I also play games, these are some games I am currently playing :video_game:
 <a href="URL_REDIRECT" target="_blank">
@@ -84,14 +83,11 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
     <img width="350px" src="cod-mobile.png"/>
 </a>
 <br>
-<br>
 
 ### I am listening to :headphones:
 <a href="https://open.spotify.com/user/taotennghi" target="_blank"> 
   <img src="https://spotify-now-playing-wheat-three.vercel.app/api/spotify" alt="Spotify Playing" width="100%" />
 </a>
-<br>
-<br>
 <br>
 
 ### Github Stats	:hammer_and_wrench:
