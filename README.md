@@ -66,6 +66,12 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <a href="URL_REDIRECT" target="_blank">
     <img height="40px" src="wordpress-color.svg"/>
 </a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="vercel-color.svg"/>
+</a>
+<a href="URL_REDIRECT" target="_blank">
+    <img height="40px" src="heroku-color.svg"/>
+</a>
 <br>
 <br>
 <br>
