@@ -88,6 +88,9 @@ I am a self-taught front-end developer. Before going to college to earn my Bache
 <a href="https://open.spotify.com/user/taotennghi" target="_blank"> 
   <img src="https://spotify-now-playing-wheat-three.vercel.app/api/spotify" alt="Spotify Playing" width="100%" />
 </a>
+  <!--
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=taotennghi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+-->
 <br>
 
 ### Github Stats	:hammer_and_wrench:
